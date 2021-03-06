@@ -103,7 +103,7 @@ const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
             + 'FN:√KEBENARAN√\n' // Nama Lu
             + 'ORG:#OwnerKEBENARAN;\n' // Nama Kontak Owner
-            + 'TEL;type=CELL;type=VOICE;waid=6281368646011:+62 813-6864-6011\n' // Nomer Lu cok
+            + 'TEL;type=CELL;type=VOICE;waid=628881393308:+62 888-1393-308\n' // Nomer Lu cok
             + 'END:VCARD'
 prefix = "#"
 blocked = []
